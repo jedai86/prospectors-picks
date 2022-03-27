@@ -1,0 +1,17 @@
+{
+    "item.prospectorspicks.iron_prospectors_pick": "Железный геологический молоток",
+    "item.prospectorspicks.copper_prospectors_pick": "Медный геологический молоток",
+    "item.prospectorspicks.diamond_prospectors_pick": "Алмазный геологический молоток",
+    "item.prospectorspicks.netherite_prospectors_pick": "Незеритовый геологический молоток",
+    "itemGroup.prospectorspicks.prospectorspickstab": "Геомолотки",
+    "item.prospectorspicks.pick.no_valuables": "§4Ничего не найдено!",
+    "item.prospectorspicks.pick.found": "§eНайдено:",
+    "item.prospectorspicks.pick.tooltip_r": "Радиус: ",
+    "item.prospectorspicks.pick.tooltip_1": "Разбейте 3 блока чтобы взять пробу.",
+    "item.prospectorspicks.pick.tooltip_2": "Блоки должны располагаться на расстоянии от 3 до 7 блоков друг от друга.",
+    "item.prospectorspicks.pick.tooltip_shift": "Нажмите §eSHIFT§r для информации",
+    "item.prospectorspicks.pick.first_shot": "Необходимо еще 2 пробы",
+    "item.prospectorspicks.pick.second_shot": "Необходима еще 1 проба",
+    "item.prospectorspicks.pick.error_far": "Новая проба слишком далеко от первоначальной пробы. Начинаю новый набор проб, нужно еще 2 пробы.",
+    "item.prospectorspicks.pick.error_close": "Новая проба слишком близко к первоначальной пробе. Начинаю новый набор проб, нужно еще 2 пробы."
+}

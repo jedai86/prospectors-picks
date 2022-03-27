@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "prospectorspicks",
+  "version": "${version}",
+
+  "name": "Prospector's Picks",
+  "description": "Prospector's Picks to find ores. Inspired by TFC & VS",
+  "authors": [
+    "Jedai86"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/jedai86/"
+  },
+
+  "license": "MIT",
+  "icon": "assets/prospectorspicks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.jedai.prospectorspicks.ProspectorspicksMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "autoconfig1u": "*",
+    "java": ">=17"
+  }
+}

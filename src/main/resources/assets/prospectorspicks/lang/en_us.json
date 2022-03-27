@@ -1,0 +1,17 @@
+{
+    "item.prospectorspicks.iron_prospectors_pick": "Iron Prospectors Pick",
+    "item.prospectorspicks.copper_prospectors_pick": "Copper Prospectors Pick",
+    "item.prospectorspicks.diamond_prospectors_pick": "Diamond Prospectors Pick",
+    "item.prospectorspicks.netherite_prospectors_pick": "Netherite Prospectors Pick",
+    "itemGroup.prospectorspicks.prospectorspickstab": "Prospectors Tab",
+    "item.prospectorspicks.pick.no_valuables": "§4No ore found!",
+    "item.prospectorspicks.pick.found": "§eFound:",
+    "item.prospectorspicks.pick.tooltip_r": "Radius: ",
+    "item.prospectorspicks.pick.tooltip_1": "Break 3 blocks to \"sample\" the area for ores.",
+    "item.prospectorspicks.pick.tooltip_2": "Blocks must be located from 3 to 7 blocks apart from each other.",
+    "item.prospectorspicks.pick.tooltip_shift": "Press §eSHIFT§r for more information",
+    "item.prospectorspicks.pick.first_shot": "Need 2 more samples",
+    "item.prospectorspicks.pick.second_shot": "Need one more sample",
+    "item.prospectorspicks.pick.error_far": "Sample too far away from initial reading. Sampling around this point now, need 2 more samples.",
+    "item.prospectorspicks.pick.error_close": "Sample too close to initial reading. Sampling around this point now, need 2 more samples."
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "prospectorspicks:diamond_prospectors_pick"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "prospectorspicks:netherite_prospectors_pick"
+  }
+}

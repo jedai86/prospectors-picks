@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "prospectorspicks:item/iron_prospectors_pick"
+  }
+}
