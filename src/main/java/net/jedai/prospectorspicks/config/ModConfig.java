@@ -32,8 +32,8 @@ public class ModConfig implements ConfigData {
     public int iron_radius = 5;
     @Comment("Radius of diamond pick")
     public int diamond_radius = 6;
-    @Comment("Radius of Netherite pick")
+    @Comment("Radius of netherite pick")
     public int netherite_radius = 7;
-    @Comment("Additional block to detect as ore")
+    @Comment("Additional blocks to detect as ore")
     public List<String> additionalBlocks = new ArrayList<>();
 }

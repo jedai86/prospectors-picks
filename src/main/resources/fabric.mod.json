@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Prospector's Picks",
-  "description": "Prospector's Picks to find ores. Inspired by TFC & VS",
+  "description": "Prospector's Picks helps you find ores. Inspired by TFC & VS",
   "authors": [
     "Jedai86"
   ],
